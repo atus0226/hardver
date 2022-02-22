@@ -8,28 +8,3 @@
     <link rel="stylesheet" href="./style/styles.css">
 </head>
 <body>
-    <!--A fejléc kezdete-->
-    <div class="header">
-        <div class="img_header_div">
-            <img class="img9et" src="./pict/9et.jpg" alt="Készítők">
-        </div>
-        <div class="title_header"> <h1>Hardverelemek vcv</h1></div>
-    </div>
-    <!--a fejléc vége-->
-    <!--a navigáció-->
-    <nav>
-<div>
-    <a href="#">Linkek helye</a>
-</div>
-<div>
-    <a href="#">Linkek helye</a>
-</div>
-<div>
-    <a href="#">Linkek helye</a>
-</div>
-<div>
-    <a href="#">Linkek helye</a>
-</div>
-<div>
-    <a href="#">Linkek helye</a>
-</div>
